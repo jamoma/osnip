@@ -1,6 +1,6 @@
-snip
+osnip
 ====
 
-SNIP -- Structured Node Interaction Protocol
+OSNIP -- Open Structured Node Interaction Protocol
 
-For more information, see https://github.com/jamoma/snip/wiki
+For more information, see https://github.com/jamoma/osnip/wiki
